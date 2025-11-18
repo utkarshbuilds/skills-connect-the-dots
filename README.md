@@ -14,51 +14,36 @@ _Useful tips when navigating through your repository._
 </header>
 
 <!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
+  <<< Author notes: Finish >>>
+  Review what we learned, ask for feedback, provide next steps.
 -->
 
-## Welcome
+## Finish
 
-Have you ever worked in a repository with a lot of history? Perhaps you've had to track down related issues and pull requests in the past, or you've had to find who committed a particular change. If you've ever found yourself in any of these situations, you'll know how important it is to navigate your workspace.
+_Congratulations friend, you've completed this course! :tada:_
 
-- **Who is this for**: Developers, GitHub users, users new to Git, students, managers, and teams.
-- **What you'll learn**:
-  - Find relevant issues and pull requests.
-  - Search history to find context.
-  - Make connections within GitHub to help others find things.
-- **What you'll build**: Repository with existing commits, duplicated issues, and a content defect to be fixed.
-- **Prerequisites**: Before you take this course, you may want to go through the [GitHub Quickstart](https://docs.github.com/en/get-started/quickstart) introduction on GitHub Docs and [Introduction to GitHub](https://github.com/skills/introduction-to-github) course on GitHub Skills.
-- **How long**: This course takes less than 15 min to complete.
+<img src="https://octodex.github.com/images/collabocats.jpg" alt=celebrate width=300 align=right>
 
-In this course, you will:
+In this course, you've learned a lot about finding and sharing information. Within a GitHub repository, you can find history about what changes were made, and more importantly, _why_ changes were made.
 
-1. Resolve a duplicate issue.
-2. Find a commit in history.
-3. Fix a broken sidebar.
+### What's next?
 
-### How to start this course
+You can enable GitHub Pages and see `docs/index.html` as a website!
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'connect-the-dots',
-  owner: '@me',
-  name: 'skills-connect-the-dots',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+1. Replace `USERNAME` with your GitHub username and `REPONAME` with your GitHub repository name in `docs/index.html`.
+1. Under your repository name at the upper right, click :gear: **Settings**.
+1. Then on the lower left, click **Pages**.
+1. In the **GitHub Pages** section, select `main` in the **Select branch** drop-down menu and `/docs` in the **Select folder** drop-down menu.
+1. Click the **Save** button.
+1. Wait about 30 seconds then refresh the page. When you see "Your site is published at ...," you can click on the link to see your published site.
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=connect-the-dots&owner=%40me&name=skills-connect-the-dots&description=My+clone+repository&visibility=public)
+Check out these resources to learn more or get involved:
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
+- We'd love to hear what you thought of this course in our [discussion board](https://github.com/orgs/skills/discussions/categories/connect-the-dots).
+- [Take another GitHub Skills course](https://github.com/skills).
+- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
+- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
 
